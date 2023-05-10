@@ -1,0 +1,45 @@
+font-family: 'Crete Round', serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+.bg-custom1 {
+    background-color: #3e3c3c;
+    color: #fff;
+}
+
+.bg-custom2 {
+    background-color: #1c1a19;
+}
+
+.text-orange {
+    color: #f55800;
+    font-size: 72px;
+    font-family: 'Crete Round', serif;
+}
+
+.bg-btn {
+    background-color: #f55800;
+    font-family: 'Inter', sans-serif;
+    font-size: 17px;
+    color:#fff
+}
+
+div.container-fluid.bg-custom2.pt-5.vh-100 {
+    background-image: url(img/image-header-desktop.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 35%;
+}
+
+div.container.col-md-1 {
+    width: 6vw;
+    margin-left: 0;
+    margin-right: 5vw;
+
+}
+
+.nav-logo {
+    list-style: none;
+    width: 10vw;
+}
