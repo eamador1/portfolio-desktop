@@ -18,7 +18,7 @@ font-family: 'Roboto', sans-serif;}
     font-family: 'Crete Round', serif;
 }
 
-.bg-btn {
+#button1 {
     background-color: #f55800;
     font-family: 'Inter', sans-serif;
     font-size: 17px;
@@ -42,4 +42,14 @@ div.container.col-md-1 {
 .nav-logo {
     list-style: none;
     width: 10vw;
+}
+
+#aboutme {
+    background-image: url(img/image-contact-desktop.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#css-lan {
+    margin-left: 2vh;
 }
